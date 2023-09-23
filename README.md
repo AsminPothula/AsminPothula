@@ -4,7 +4,7 @@ I'm a junior at UT Arlington majoring in Computer Science, expected to gradute b
 
           
   
-- 📖 Currently Reading: Thinking Fast and Slow by Daniel Kahneman
+- 📖 Currently Reading: Thinking, Fast and Slow by Daniel Kahneman
 - 🧚‍♀️ Current Favourite Sentence: "I hope that either all of us or none of us are judged by the actions of our weakest moments. But rather by the strength we show when and if we're given a second chance" - Ted Lasso
 
 <!--
