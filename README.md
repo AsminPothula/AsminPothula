@@ -1,4 +1,4 @@
-Hey there!☀
+Hey there!☀    
 I'm Asmin Pothula.🌻   
 I'm a junior at UT Arlington majoring in Computer Science, expected to gradute by May 2025. 
 
