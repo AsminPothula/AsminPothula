@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there!☀
+I'm Asmin Pothula.🌻
+I'm a junior at UT Arlington majoring in Computer Science, expected to gradute by May 2025. 
 
 <!--
 **AsminPothula/AsminPothula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
